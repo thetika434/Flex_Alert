@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1021499945522",
+    "project_id": "flexalert-50ea7",
+    "storage_bucket": "flexalert-50ea7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021499945522:android:cda6f31c0c33d0ee2b422b",
+        "android_client_info": {
+          "package_name": "com.example.flex_team"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg-IpkEXhX62iX5laP2baF37-Uvu0ad18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
